@@ -6,7 +6,7 @@
 <a href="https://fb.com/tnowad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tnowad" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tnowad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tnowad" height="30" width="40" /></a>
 </p>
-<table><tr><td valign="top" width="75%">
+<table width="100%"><tr><td valign="top" width="75%">
 
 ## 👋 Hi, I Am Nguyen Minh Tuan
 
