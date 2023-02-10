@@ -18,7 +18,8 @@
 ## 🖥️ Fav Tech Stack
 
 -   Docker
--   Kubernetes
+-   ExpressJs
+-   MongoDB
 -   MySQL
 -   NodeJs
 -   ReactJs
