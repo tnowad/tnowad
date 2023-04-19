@@ -21,12 +21,10 @@
 <table width="100%">
   <tr>
     <td valign="top">
-      <h3>👋 Hi, I Am Nguyen Minh Tuan
-      </h3>
+      <h3><nobr>👋 Hi, I Am Nguyen Minh Tuan</h3></nobr>
     </td>
     <td valign="top">
-      <h3>🖥️ Fav Tech Stack
-      </h3>
+      <h3><nobr>🖥️ Fav Tech Stack</nobr></h3>
     </td>
   </tr>
   <tr>
