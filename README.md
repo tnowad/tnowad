@@ -10,14 +10,14 @@
 <table width="100%">
 
 <tr>
-<th valign="top" >
+<td valign="top" >
 
 <h2>👋 Hi, I Am Nguyen Minh Tuan</h2>
-</th >
-<th valign="top">
+</td >
+<td valign="top">
 
 <h2>🖥️ Fav Tech Stack</h2>
-</th>
+</td>
 </tr>
 <tr></tr>
 <tr>
