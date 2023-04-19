@@ -12,11 +12,11 @@
 <tr>
 <th valign="top" >
 
-## 👋 Hi, I Am Nguyen Minh Tuan
+<h2>👋 Hi, I Am Nguyen Minh Tuan</h2>
 </th >
 <th valign="top">
 
-## 🖥️ Fav Tech Stack
+<h2>🖥️ Fav Tech Stack</h2>
 </th>
 </tr>
 <tr></tr>
