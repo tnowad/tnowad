@@ -8,26 +8,37 @@
 </p>
 
 <table width="100%">
+
 <tr>
-<td valign="top" width="75%">
+<th valign="top" >
 
 ## 👋 Hi, I Am Nguyen Minh Tuan
-
--   I am a software engineer interested in Nodejs.
--   I am still studying at Sai Gon University as a software engineer from 2021
-
-</td ><td valign="top" width="25%">
+</th >
+<th valign="top">
 
 ## 🖥️ Fav Tech Stack
+</th>
+</tr>
+<tr>
+<td>
 
--   Docker
--   ExpressJs
--   MongoDB
--   MySQL
--   NodeJs
--   ReactJs
+- I am a software engineer interested in Nodejs.
+- I am still studying at Sai Gon University as a software engineer from 2021
 
-</tr></tr>
+</td>
+
+<td>
+
+- Docker
+- ExpressJs
+- MongoDB
+- MySQL
+- NodeJs
+- ReactJs
+
+</td>
+</tr>
+
 <tr></tr>
  <tr><td valign="top" width="50%" colspan="2">
  <p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4488000d5dce2b938e3bb78692e5ddc080e7bf7a5f32896bfe237c3f0ae53880/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d746e6f776164266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/4488000d5dce2b938e3bb78692e5ddc080e7bf7a5f32896bfe237c3f0ae53880/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d746e6f776164266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="tnowad" data-canonical-src="https://komarev.com/ghpvc/?username=tnowad&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a>
