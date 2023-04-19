@@ -9,15 +9,16 @@
 
 <table width="100%">
 <tr>
-<td valign="top">
+<td valign="top" width="75%">
 
-<h2><nobr>👋 Hi, I Am Nguyen Minh Tuan </nobr></h2>
+## 👋 Hi, I Am Nguyen Minh Tuan
 
 -   I am a software engineer interested in Nodejs.
 -   I am still studying at Sai Gon University as a software engineer from 2021
 
-</td ><td valign="top">
-<h2><nobr>🖥️ Fav Tech Stack</nobr></h2>
+</td ><td valign="top" width="25%">
+
+## 🖥️ Fav Tech Stack
 
 -   Docker
 -   ExpressJs
