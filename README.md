@@ -19,6 +19,7 @@
 ## 🖥️ Fav Tech Stack
 </th>
 </tr>
+<tr></tr>
 <tr>
 <td>
 
