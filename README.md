@@ -17,8 +17,7 @@
 -   I am still studying at Sai Gon University as a software engineer from 2021
 
 </td ><td valign="top" width="25%">
-
-## 🖥️ Fav Tech Stack
+<h2 style="white-space: nowrap">🖥️ Fav Tech Stack</h2>
 
 -   Docker
 -   ExpressJs
