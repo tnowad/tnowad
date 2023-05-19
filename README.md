@@ -74,7 +74,7 @@
         </a>
       </p>
       <p align="center" dir="auto">
-        <img src="https://github-profile-trophy.vercel.app/?username=tnowad&theme=onestar&no-frame=true" />
+        <img src="https://github-profile-trophy.vercel.app/?username=tnowad&theme=onestar&no-frame=true&row=1" />
       </p>
       <h3 align="left">Languages and Tools: </h3>
       <p align="center">
