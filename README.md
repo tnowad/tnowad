@@ -5,7 +5,7 @@
   <a href="https://twitter.com/tnowad_t" target="_blank">
     <img align="center" src="icons/twitter.svg" alt="tnowad_t" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/minh-tuan-nguyen-900855252" target="_blank">
+  <a href="https://linkedin.com/in/tnowad" target="_blank">
     <img align="center" src="icons/linked-in-alt.svg" alt="minh-tuan-nguyen-900855252" height="30" width="40" />
   </a>
   <a href="https://stackoverflow.com/users/20390656" target="_blank">
