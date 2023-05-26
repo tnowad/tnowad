@@ -32,9 +32,13 @@
   <tr>
     <td>
       <ul>
-        <li>I am a software engineer interested in Nodejs.
+        <li>I'm Nguyen Minh Tuan, a software engineer studying at Sai Gon University since 2021.
         </li>
-        <li>I am still studying at Sai Gon University as a software engineer from 2021.
+        <li>I specialize in the Node.js stack, including React.js, Express.js, MongoDB, MySQL, and Docker.
+        </li>
+        <li>Seeking practical experience to enhance my skills in real-world projects.
+        </li>
+        <li>Passionate about learning and staying up-to-date with software development trends.
         </li>
       </ul>
     </td>
