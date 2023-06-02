@@ -1,4 +1,8 @@
 <p align="center">
+<q>Any fool can write code that a computer can understand. Good programmers write code that humans can understand.</q>
+<p align="right"><i> - Martin Fowler</i></p>
+</p>
+<p align="center">
   <a href="https://dev.to/tnowad" target="_blank">
     <img align="center" src="icons/devto.svg" alt="tnowad" height="30" width="40" />
   </a>
