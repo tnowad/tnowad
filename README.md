@@ -50,6 +50,8 @@
         </li>
         <li>Expressjs
         </li>
+        <li>Graphql
+        </li>
         <li>MongoDB
         </li>
         <li>MySQL
