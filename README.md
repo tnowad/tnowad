@@ -38,7 +38,7 @@
       <ul>
         <li>I'm Nguyen Minh Tuan, a software engineer studying at Sai Gon University since 2021.
         </li>
-        <li>I specialize in the Node.js stack, including React.js, Express.js, MongoDB, MySQL, and Docker.
+        <li>I specialize in the Node.js stack, including Next, Nest, MongoDB, Postgres, and Docker.
         </li>
         <li>Seeking practical experience to enhance my skills in real-world projects.
         </li>
