@@ -1,16 +1,17 @@
 # Nguyen Minh Tuan
 
-> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler
+> "Talk is cheap. Show me the code." - Linus Torvalds
 
-I'm Nguyen Minh Tuan, a software engineering student at Sai Gon University since 2021.
+- I'm Nguyen Minh Tuan, a software engineering student at Sai Gon University since 2021, aiming to graduate by 2025.
+- My top goal is to work hard, buy a Threadripper, and put Gentoo on it 💯.
 
 ## Projects
 
 ### News Copilot Reader (Archive)
 A news website with an AI Copilot to write and suggest news. Trains a GPT-2 model using a news corpus.
-- **Repo:** [news-copilot-reader](https://github.com/tnowad/news-copilot-reader)
+- **Repo:** [News Copilot Reader](https://github.com/tnowad/news-copilot-reader)
 - **Tech:** Sveltekit, Flask, SQLite
-- **Role:** Backend, frontend, AI model training, system design
+- **Role:** Full-stack development, Natural Language Processing (NLP), API integration
 - **Duration:** Mar 2024 - Apr 2024
 
 Explore more on [GitHub](https://github.com/tnowad?tab=repositories).
