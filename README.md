@@ -19,7 +19,7 @@ Explore more on [GitHub](https://github.com/tnowad?tab=repositories).
 ## Skills
 
 - **Languages:** TypeScript, Python, PHP, Java, Lua, Rust
-- **Frameworks:** Svelte, Next, React, Vue, Nest, Laravel, Axum
+- **Frameworks:** Svelte, Next, React, Vue, Nest, Angular, Laravel, Axum
 - **Databases:** MongoDB, PostgreSQL, MySQL
 - **Tools:** Docker, Git, RabbitMQ
 
