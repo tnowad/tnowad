@@ -8,6 +8,15 @@
 ## Projects
 
 <details>
+  <summary>Clothing store (Freelance)</summary>
+
+  An online clothing store built using modern web technologies for a fast, and responsive shopping experience.
+  - **Website:** [Hinstore](https://hinstore.vn)
+  - **Tech:** Next, TRPC, MySQL
+  - **Role:** Full-stack development
+  - **Duration:** Oct 2024 - Oct 2024
+</details>
+<details>
   <summary>News Copilot Reader (Archive)</summary>
   
   A news website with an AI Copilot to write and suggest news. Trains a GPT-2 model using a news corpus.
