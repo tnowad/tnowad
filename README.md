@@ -11,7 +11,7 @@
   <summary>Clothing store (Freelance)</summary>
 
   An online clothing store built using modern web technologies for a fast, and responsive shopping experience.
-  - **Website:** [Hinstore](https://hinstore.vn)
+  - **Website:** Hinstore
   - **Tech:** Next, TRPC, MySQL
   - **Role:** Full-stack development
   - **Duration:** Oct 2024 - Oct 2024
